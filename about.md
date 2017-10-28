@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi! I'm really enjoying PhD studies at Karolinska, Stockholm. You can say that I do personalized medicin in prostate cancer from a statistical point-of-view. Currently, I build convolutional neural networks for cancer in prostate tissue.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[peter.strom@ki.se](mailto:peter.strom@ki.se)
